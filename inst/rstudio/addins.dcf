@@ -1,6 +1,6 @@
 Name: Submit Assignment
 Description: Submit assignment.
-Binding: sumbitAssignment
+Binding: submitAssignment
 Interactive: true
 
 Name: Insert %in%
