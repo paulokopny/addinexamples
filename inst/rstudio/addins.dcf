@@ -1,3 +1,8 @@
+Name: Submit Assignment
+Description: Submit assignment.
+Binding: sumbitAssignmentsAddin
+Interactive: true
+
 Name: Insert %in%
 Description: Inserts `%in%` at the cursor position.
 Binding: insertInAddin
